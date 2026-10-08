@@ -1,3 +1,5 @@
+### A geospatial data science tool designed to forecast high risk traffic accident corridors and predict incident severity across Kenya using historical transport datasets.
+
 ## Getting Started
 
 First, run the development server:
