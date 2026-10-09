@@ -74,7 +74,7 @@ export default function Navbar() {
               display: "block",
               marginTop: "-2px",
             }}>
-              formerly Sawabot
+            
             </span>
           </div>
         </Link>
